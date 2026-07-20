@@ -1,0 +1,13 @@
+# Local query results and exports
+*.csv
+*.xlsx
+*.json
+*.log
+*.tmp
+.env
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
